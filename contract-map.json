@@ -13,6 +13,13 @@
     "symbol": "VDOC",
     "decimals": 18
   },
+   "0xb67734521eabbe9c773729db73e16cc2dfb20a58": {
+    "name": "eRupee",
+    "logo": "eRupee.png",
+    "erc20": true,
+    "symbol": "e₹",
+    "decimals": 2
+  },
   "0xd26114cd6EE289AccF82350c8d8487fedB8A0C07": {
     "name": "OmiseGO",
     "logo": "omg.jpg",
